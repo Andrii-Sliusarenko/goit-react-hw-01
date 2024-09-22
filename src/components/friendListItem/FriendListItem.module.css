@@ -7,10 +7,10 @@
   size: 24px;
 }
 
-.online.offline {
-  color: brown;
+.offline {
+  color: red;
 }
 
-.online.online {
-  color: darkgreen;
+.online {
+  color: rgb(13, 227, 13);
 }
